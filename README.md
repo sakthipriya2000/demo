@@ -9,4 +9,8 @@ Thankyou!
 exit
 
 
+<<<<<<< HEAD
 ohhooo
+=======
+Byeee
+>>>>>>> very-bad
